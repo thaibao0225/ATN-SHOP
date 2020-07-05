@@ -193,6 +193,8 @@ app.get("/sales", function(req,res)
             .catch(error => console.error(error));
         })
         .catch(error => console.error(error)); 
+
+        blockSale=1;
     }
     
 
