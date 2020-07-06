@@ -12,7 +12,8 @@
   .header {
     padding: 80px;
     text-align: center;
-    background: #1abc9c;
+    /* background: #1abc9c; */
+    background-image: url("https://sites.google.com/site/dochoimangaanime/_/rsrc/1466327110078/home/1pr.jpg");
     color: white;
   }
   
@@ -85,7 +86,8 @@
   
   /* Fake image, just for this example */
   .fakeimg {
-    background-color: #aaa;
+    /* background-color: #aaa; */
+    background-image: url("https://congdongreview.com/wp-content/uploads/2018/07/cua-hang-ban-figure-anime-9.jpg");
     width: 100%;
     padding: 20px;
   }
